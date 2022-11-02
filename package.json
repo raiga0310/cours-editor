@@ -1,0 +1,19 @@
+{
+  "name": "cours-editor",
+  "version": "1.0.0",
+  "description": "text editor for class note-taking",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiga0310/cours-editor.git"
+  },
+  "author": "raiga0310",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raiga0310/cours-editor/issues"
+  },
+  "homepage": "https://github.com/raiga0310/cours-editor#readme"
+}
